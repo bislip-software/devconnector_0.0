@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb://javier:javi123@ac-vadgkfu-shard-00-00.6jzjrmy.mongodb.net:27017,ac-vadgkfu-shard-00-01.6jzjrmy.mongodb.net:27017,ac-vadgkfu-shard-00-02.6jzjrmy.mongodb.net:27017/?ssl=true&replicaSet=atlas-ptby6b-shard-0&authSource=admin&appName=Cluster0",
+  "mongoURI": "mongodb+srv://javier:javi123@cluster0.6jzjrmy.mongodb.net/?appName=Cluster0",
   "jwtSecret": "jz-devconnector-secret",
   "expiresIn": 3600,
   "baseURL": "https://devconnector-0-0.vercel.app/api"
